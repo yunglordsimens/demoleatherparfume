@@ -1,0 +1,13 @@
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 100vh;
+  overflow-x: hidden;
+  background-color: #FAF8F4; /* Поддержка цвета фона из светлой темы */
+}
+
+/* Сброс базовых стилей кнопок и инпутов для красоты */
+* {
+  box-sizing: border-box;
+}
